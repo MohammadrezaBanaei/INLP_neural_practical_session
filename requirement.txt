@@ -9,3 +9,4 @@ cython==0.29.7
 gensim==3.8.0
 nltk==3.4
 torchtext==0.4.0
+fasttext==0.9.1
