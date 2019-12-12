@@ -1,5 +1,6 @@
 numpy==1.16.3
 scipy==1.2.0
+seaborn==0.9.0
 torch==1.1.0
 pandas==0.24.1
 scikit-learn==0.20.3
@@ -8,3 +9,4 @@ cython==0.29.7
 gensim==3.8.0
 nltk==3.4
 torchtext==0.4.0
+fasttext==0.9.1
